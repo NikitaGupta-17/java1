@@ -1,4 +1,4 @@
-public class SumUdingCommandLineArg
+public class SumUsingCommandLineArg
 {  
 public static void main(String ar[])  
 {  
